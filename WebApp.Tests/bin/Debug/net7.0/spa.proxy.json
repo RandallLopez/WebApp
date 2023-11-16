@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44464",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Randall\\Desktop\\Examen II\\SegundoExamen\\WebApp\\WebApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
